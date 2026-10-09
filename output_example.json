@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "text": "The book arrived in perfect condition and the story had me hooked from the very first page. Absolutely loved it!",
+    "sentiment": "positive",
+    "topic": "plot"
+  },
+  {
+    "id": "2",
+    "text": "Incredibly boring and poorly written. I could barely finish the first chapter. Total waste of time.",
+    "sentiment": "negative",
+    "topic": "plot"
+  },
+  {
+    "id": "3",
+    "text": "It's a decent read, nothing extraordinary. Arrived on time.",
+    "sentiment": "neutral",
+    "topic": "delivery"
+  },
+  {
+    "id": "4",
+    "text": "The author's writing style is beautiful and the characters felt so real. Five stars for this masterpiece!",
+    "sentiment": "positive",
+    "topic": "characters"
+  },
+  {
+    "id": "5",
+    "text": "The plot was way too predictable and the ending felt rushed. Very disappointed.",
+    "sentiment": "negative",
+    "topic": "plot"
+  },
+  {
+    "id": "6",
+    "text": "Shipping took three weeks. No updates from the seller whatsoever.",
+    "sentiment": "negative",
+    "topic": "delivery"
+  },
+  {
+    "id": "7",
+    "text": "Exactly as described. A gripping story with well-developed characters. Good value for money.",
+    "sentiment": "positive",
+    "topic": "characters"
+  },
+  {
+    "id": "8",
+    "text": "Amazing book! My whole family enjoyed reading it. Will definitely order more from this author.",
+    "sentiment": "positive",
+    "topic": "plot"
+  },
+  {
+    "id": "9",
+    "text": "The cover was different from the photo on the website. A bit misleading.",
+    "sentiment": "negative",
+    "topic": "cover"
+  },
+  {
+    "id": "10",
+    "text": "Fast shipping, solid packaging, and the book is in great condition. No complaints at all.",
+    "sentiment": "positive",
+    "topic": "condition"
+  }
+]
