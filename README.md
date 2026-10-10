@@ -13,10 +13,12 @@
 
 ```
 da-2026-sem2-1/
-├── main.py          # основной скрипт
-├── reviews.csv      # входные данные
-├── results.json     # выходные данные
-└── README.md
+├──example.env             # пример файла переменных окружения
+├──input_example.csv       # пример выходных данных
+├── main.py                # основной скрипт
+├──output_example.json     # пример входных данных
+├── README.md
+└── requirements.txt       # зависимости
 ```
 
 ## Установка и запуск
